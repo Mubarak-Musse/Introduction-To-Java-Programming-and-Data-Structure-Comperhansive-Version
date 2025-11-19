@@ -4,7 +4,7 @@ _Introduction to Java Programming and Data Structure " Comprehensive Version_ **
 
 ## Images
 
-![TextBook Cover](<Introduction To Java programming and datastructure.jpg>)
+![TextBook Cover](<Introduction To Java programming and datastructure.jpg> | width="385px" align="center")
 
 ## Links
 
